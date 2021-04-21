@@ -1,1 +1,7 @@
 Explicación de permisos para carpetas
+
+Lectura: Permite visualizar el contenido
+
+Escritura: Permite crear, eliminar archivos y directorios dentro de este directorio
+
+Ejecución: Permite entrar al directorio

@@ -1,1 +1,18 @@
 Niveles y tipos de permisos para archivos
+
+
+Niveles
+Owner (propietario)
+Group (grupo)
+Other (otros)
+
+Permisos
+Lectura 4
+Escritura 2
+Ejecucion 1
+
+Nota: En los permisos para archivos deben de ir 3 para tres niveles
+
+chmod permisos nombre del archivo
+
+chmod: Permite cambiar los permisos de un archivo o carpeta
